@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2020-11-03T12:19:07.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FZLwe6KXTLjD2fXa7Hu-" version="13.8.8" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-1" value="Entity" style="whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-2" value="Relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="155" width="170" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
