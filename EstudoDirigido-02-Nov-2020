@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T13:02:59.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UA3Y1NbrzUOqkzVkP57y" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T13:27:11.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="z9Cp7YCPj7wtCi-ajXnS" version="13.8.8" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER-EstudoDirigido">
     <mxGraphModel dx="1678" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -193,6 +193,20 @@
         </mxCell>
         <mxCell id="zWw6YbuoIhfkc-IctaTn-71" value="(1,1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="40" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x2edP44dpFyP2OcJ8P4P" name="DER-WebNoticias">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-0" />
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-1" parent="kRdrzXDOWAMrlyvCGJVJ-0" />
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-3" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;span lang=&quot;PT-BR&quot;&gt;Os &lt;span style=&quot;background: yellow&quot;&gt;usuários&lt;/span&gt;&#xa;devem ser capazes de se &lt;u&gt;inscrever&lt;/u&gt; em &lt;span style=&quot;background: yellow&quot;&gt;grupos de&lt;span&gt;&amp;nbsp; &lt;/span&gt;notícias&lt;/span&gt;&#xa;, e &lt;u&gt;navegar&lt;/u&gt; por &lt;span style=&quot;background: yellow&quot;&gt;artigos&lt;/span&gt;&#xa;nos &lt;span style=&quot;background: yellow&quot;&gt;grupos.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;span lang=&quot;PT-BR&quot;&gt;O &lt;span style=&quot;background: yellow&quot;&gt;Sistema&lt;/span&gt; &lt;u&gt;acompanha&lt;/u&gt;&#xa;quais &lt;span style=&quot;background: yellow&quot;&gt;artigos&lt;/span&gt; &lt;u&gt;foram&lt;/u&gt;&#xa;&lt;span style=&quot;background: yellow&quot;&gt;lidos&lt;/span&gt; por um &lt;span style=&quot;background: yellow&quot;&gt;usuário&lt;/span&gt;, para que não&#xa;sejam exibidos novamente.&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;span lang=&quot;PT-BR&quot;&gt;Ofereça também, uma &lt;span style=&quot;background: yellow&quot;&gt;pesquisa&lt;/span&gt;&#xa;de &lt;span style=&quot;background: yellow&quot;&gt;artigos antigos&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;span lang=&quot;PT-BR&quot;&gt;O Sistema oferece um &lt;span style=&quot;background: yellow&quot;&gt;Sistema&lt;/span&gt;&#xa;para &lt;u&gt;avaliação&lt;/u&gt; de &lt;span style=&quot;background: yellow&quot;&gt;artigos&lt;/span&gt;,&#xa;de modo que aqueles com &lt;span style=&quot;background: yellow&quot;&gt;maior&#xa;avaliação&lt;/span&gt; sejam &lt;span style=&quot;background: yellow&quot;&gt;destacados&lt;/span&gt;,&#xa;permitindo o leitor ocupado pule os artigos com &lt;span style=&quot;background: yellow&quot;&gt;avaliação inferior&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
+          <mxGeometry x="160" y="50" width="570" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-4" value="Usuário" style="whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
+          <mxGeometry x="790" y="170" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
