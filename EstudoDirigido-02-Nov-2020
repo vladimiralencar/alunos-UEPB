@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T12:35:57.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="zv7jUNPyEd9MZVeLFds9" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T12:43:09.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="MpTQ8eelJ4j15OJTVeOg" version="13.8.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry x="740" y="930" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="zWw6YbuoIhfkc-IctaTn-40" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;span lang=&quot;PT-BR&quot;&gt;Os &lt;span style=&quot;background: yellow&quot;&gt;habitantes&lt;/span&gt;&#xa;&lt;u&gt;precisam&lt;/u&gt; se &lt;span style=&quot;background: yellow&quot;&gt;vacinar&lt;/span&gt;&#xa;em &lt;span style=&quot;background: yellow&quot;&gt;postos de saúde&lt;/span&gt;&#xa;que estão &lt;u&gt;localizados&lt;/u&gt; em &lt;span style=&quot;background: yellow&quot;&gt;bairros&lt;/span&gt; do &lt;span style=&quot;background: yellow&quot;&gt;município&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1100" width="1010" height="180" as="geometry" />
+          <mxGeometry x="120" y="1200" width="1010" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zWw6YbuoIhfkc-IctaTn-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zWw6YbuoIhfkc-IctaTn-36">
           <mxGeometry relative="1" as="geometry">
@@ -120,6 +120,51 @@
             <mxPoint x="824.5" y="1005" as="sourcePoint" />
             <mxPoint x="824.5" y="1060" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-45" value="Bairro" style="whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1060" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-47" value="Estao Localizados" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1025" width="195" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-48" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="1104.5" as="sourcePoint" />
+            <mxPoint x="435" y="1105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="1102" as="sourcePoint" />
+            <mxPoint x="745" y="1102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="zWw6YbuoIhfkc-IctaTn-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-50" value="Pertence" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="100" y="920" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-51" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWw6YbuoIhfkc-IctaTn-45" target="zWw6YbuoIhfkc-IctaTn-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="900" as="sourcePoint" />
+            <mxPoint x="580" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-52" value="" style="curved=1;endArrow=classic;html=1;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="760" as="sourcePoint" />
+            <mxPoint x="530" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="760" />
+              <mxPoint x="480" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWw6YbuoIhfkc-IctaTn-55" value="" style="line;strokeWidth=2;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
