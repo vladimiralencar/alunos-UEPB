@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T13:35:46.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="C12CRLcMwYsrVdJiQdvG" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-03T13:36:54.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Yyy-lYTgtlUDzMQ-6iJN" version="13.8.8" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER-EstudoDirigido">
     <mxGraphModel dx="1678" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -236,7 +236,7 @@
             <mxPoint x="1040" y="228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-11" value="Artigos" style="whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-11" value="Artigo" style="whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
           <mxGeometry x="1060" y="445" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kRdrzXDOWAMrlyvCGJVJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="kRdrzXDOWAMrlyvCGJVJ-1" source="kRdrzXDOWAMrlyvCGJVJ-12" target="kRdrzXDOWAMrlyvCGJVJ-11">
@@ -261,6 +261,9 @@
             <mxPoint x="1135" y="390" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-19" value="Sistema" style="whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
+          <mxGeometry x="650" y="470" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
