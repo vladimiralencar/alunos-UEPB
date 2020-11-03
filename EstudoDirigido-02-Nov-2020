@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T13:33:28.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xRLWK6nFwrFOQsn019D4" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-03T13:35:46.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="C12CRLcMwYsrVdJiQdvG" version="13.8.8" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER-EstudoDirigido">
     <mxGraphModel dx="1678" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -237,13 +237,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kRdrzXDOWAMrlyvCGJVJ-11" value="Artigos" style="whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
-          <mxGeometry x="1050" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="1060" y="445" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kRdrzXDOWAMrlyvCGJVJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="kRdrzXDOWAMrlyvCGJVJ-1" source="kRdrzXDOWAMrlyvCGJVJ-12" target="kRdrzXDOWAMrlyvCGJVJ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRdrzXDOWAMrlyvCGJVJ-12" value="Navegam" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
           <mxGeometry x="830" y="320" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-16" value="Pentencem" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=21;" vertex="1" parent="kRdrzXDOWAMrlyvCGJVJ-1">
+          <mxGeometry x="1050" y="310" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.464;exitY=0.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kRdrzXDOWAMrlyvCGJVJ-1" source="kRdrzXDOWAMrlyvCGJVJ-11" target="kRdrzXDOWAMrlyvCGJVJ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="440" as="sourcePoint" />
+            <mxPoint x="790" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRdrzXDOWAMrlyvCGJVJ-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;entryX=0.547;entryY=1.016;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="kRdrzXDOWAMrlyvCGJVJ-1" source="kRdrzXDOWAMrlyvCGJVJ-16" target="kRdrzXDOWAMrlyvCGJVJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1134.96" y="459.97" as="sourcePoint" />
+            <mxPoint x="1135" y="390" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
